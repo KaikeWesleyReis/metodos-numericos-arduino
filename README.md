@@ -1,2 +1,2 @@
-# PROJETO_MATERIAL_EDUCACIONAL_METODOS_NUMERICOS
-Material feito com o intuito de ajudar os alunos dessa disciplina a compreender melhor a aplicação de métodos numéricos aplicados a dispositivos embarcados.
+# Metodos_Numerico_Arduino
+Material elaborado na Universidade Federal da Bahia (UFBA) pelo desenvolvedores (discentes): Isabela Almeida, Cássio Oliveira, Maria de Carvalho, Lucas Almeida e Kaike Reis sob a orientação de Raony Fontes (docente) com intuito de colaborar com o ensino da aplicação de Métodos Numéricos na plataforma embarcada Arduino. OBS: Para acessar o MANUAL DE USO deste projeto acesse o link http://rpubs.com/azuosisa/engd04 ou baixe os arquivos (Um HTML e uma pasta .rar) nomeados por "Manual de Uso - Material Institucional (Métodos Numéricos na Engenharia)". Se você optou por baixar, não esqueça de descompactar a pasta .rar.
